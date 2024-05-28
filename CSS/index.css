@@ -1,0 +1,38 @@
+@import "edit-form.css";
+@import "add-recipe.css";
+
+
+
+body {
+  background-color: antiquewhite;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+label {
+  
+  font-size: .8rem;
+  color: blue;
+  font-weight: 800;
+
+}
+
+.recipes {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  
+
+
+}
+.card{
+  margin-top:20px;
+  margin-right: 10px;
+  
+}
