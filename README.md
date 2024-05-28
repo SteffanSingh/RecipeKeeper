@@ -25,4 +25,4 @@ To run this project, you need a web browser. No additional installations are req
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/SteffanSingh/recipeKeeper.git
+   git clone https://github.com/SteffanSingh/RecipeKeeper.git
