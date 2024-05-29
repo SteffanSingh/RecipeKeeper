@@ -29,7 +29,7 @@ To run this project, you need a web browser. No additional installations are req
 
 ## Deployment
 
-The Book Library application is currently deployed on PythonAnywhere. You can access the live version of the application at [https://recipe-keeper-livid.vercel.app/](https://recipe-keeper-livid.vercel.app/).
+The Recipe Keeper application is currently deployed on Vercel.com. You can access the live version of the application at [https://recipe-keeper-livid.vercel.app/](https://recipe-keeper-livid.vercel.app/).
 
 ## Demo
 
