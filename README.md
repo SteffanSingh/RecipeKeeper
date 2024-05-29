@@ -26,3 +26,11 @@ To run this project, you need a web browser. No additional installations are req
 1. Clone the repository:
    ```sh
    git clone https://github.com/SteffanSingh/RecipeKeeper.git
+
+## Demo
+
+### Project Demo Video
+
+Check out the [project demo video](https://www.youtube.com/watch?v=_8MNUsq_Ako&feature=youtu.be) to see the Recipe Keeper in action.
+
+ 
