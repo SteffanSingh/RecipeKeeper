@@ -27,6 +27,10 @@ To run this project, you need a web browser. No additional installations are req
    ```sh
    git clone https://github.com/SteffanSingh/RecipeKeeper.git
 
+## Deployment
+
+The Book Library application is currently deployed on PythonAnywhere. You can access the live version of the application at [https://recipe-keeper-livid.vercel.app/](https://recipe-keeper-livid.vercel.app/).
+
 ## Demo
 
 ### Project Demo Video
