@@ -38,7 +38,7 @@
     bottom: 0;
     top: 0;
     margin-top: 80px;
-    height: 420px;
+    height: 440px;
   
     transition: max-height 0.7s ease-in, opacity 0.7s ease-in;
     /* smooth transition down */
@@ -47,7 +47,16 @@
   
   
   
-  
+  .home{
+    width: 100px;
+    font-size: 1rem;
+    font-weight: 700;
+    border: none;
+    background-color:rgb(194, 205, 155) ;
+    margin-bottom: 50px;
+    margin-top: 0;
+    color: blue;
+  }
   /* Add Recipe CSS */
   
   

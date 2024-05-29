@@ -11,7 +11,6 @@
     text-align: center;
     padding: 10px;
     margin: 5px;
-    background-color: #fff;
     width: 350px;
     bottom: 1000px;
     transition: max-height 0.7s ease-out, opacity 0.7s ease-out;
@@ -25,7 +24,7 @@
     bottom: 0;
     top: 0;
     margin-top: 80px;
-    height: 450px;
+    height: 500px;
     transition: max-height 0.7s ease-in, opacity 0.7s ease-in;
     /* smooth transition down */
     overflow: hidden;
@@ -34,14 +33,22 @@
   form>h3 {
     color: red;
     font-weight: 600;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
   }
   
-  #btn-edit-recipe {
-  
-    margin-bottom: 50px;
-  
-  }
    
 
   
+  .home{
+    width: 100px;
+    font-size: 1rem;
+    font-weight: 700;
+    border: none;
+    background-color:rgb(211, 222, 171);
+    margin-bottom: 10px;
+    margin-top: 0;
+    color: blue;
+  }
   /* Edit Recipe CSS */

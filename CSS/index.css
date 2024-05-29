@@ -36,3 +36,24 @@ label {
   margin-right: 10px;
   
 }
+.header>p{
+  line-height: 1;
+  margin: 0;
+  padding: 0;
+}
+
+#message-div {
+  position: absolute;  
+  z-index: 1;
+  background-color: antiquewhite;
+  right: auto;
+  line-height: 1;
+  margin-left: 20px;
+  padding: 0;
+  font-size: 0.9rem;
+  font-weight: 700;
+  border: none;
+      /* Initially hidden */
+}
+
+ 
